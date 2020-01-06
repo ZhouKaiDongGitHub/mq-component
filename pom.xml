@@ -20,6 +20,7 @@
         <module>spring-rmq</module>
         <module>spring-rmq-order</module>
         <module>spring-rmq-stock</module>
+        <module>demo-java-redis</module>
     </modules>
 
     <dependencyManagement>
