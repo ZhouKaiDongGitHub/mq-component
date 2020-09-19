@@ -21,6 +21,7 @@
         <module>spring-rmq-order</module>
         <module>spring-rmq-stock</module>
         <module>demo-java-redis</module>
+        <module>kafka-core</module>
     </modules>
 
     <dependencyManagement>
